@@ -1,0 +1,16 @@
+{
+  "name": "aws-icon-lib",
+  "version": "1.0.0",
+  "description": "AWS Icon SVGs",
+  "scripts": {
+    "build": "script/build.sh"
+  },
+  "author": "Fred Stoddart",
+  "license": "ISC",
+  "files": [
+    "lib"
+  ],
+  "directories": {
+    "lib": "./lib"
+  }
+}
