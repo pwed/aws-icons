@@ -1,6 +1,6 @@
 {
   "name": "aws-icon-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AWS Icon SVGs",
   "scripts": {
     "build": "script/build.sh"
